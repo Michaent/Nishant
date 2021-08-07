@@ -51,7 +51,7 @@ hr{
    height: 0;
    line-height: 0;
    color: #FFFFFF;
-   font-family: Arial;
+   font-family: 'Montserrat', sans-serif;
    width: 140px;
    font-size: 19px;
    font-weight: 200;
@@ -144,6 +144,7 @@ hr{
 
 .bottom-container{
   background-color: #00303F;
+  font-family: 'Montserrat', sans-serif;
   padding-top: 35px;
   padding-bottom: 10px;
 
