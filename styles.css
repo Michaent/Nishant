@@ -3,9 +3,6 @@ body{
   margin: 0;
   text-align: center;
   font-family: 'Merriweather', serif;
-
-
-
 }
 
 h1{
@@ -20,14 +17,12 @@ h2{
   font-size: 2.5rem;
   font-family: 'Montserrat', sans-serif;
   margin-top: 4rem;
-
 }
 
 h3{
   color:  #2C061F;
   font-family: 'Montserrat', sans-serif;
   margin-top: 1.5rem;
-
 }
 
 hr{
@@ -37,7 +32,6 @@ hr{
   border-width: 7px;
   width: 5%;
   size: 200px;
-
 }
 
 
@@ -91,9 +85,6 @@ hr{
   margin-right: 30px;
 }
 
-.lft{
-
-}
 
 .para2{
   font-weight: normal;
@@ -121,15 +112,11 @@ hr{
   text-align: left;
 }
 
-.toleft{
 
-
-}
 .top-cloud{
   position: absolute;
   top: 50px;
   right: 300px;
-
 }
 
 .bottom-cloud{
@@ -138,7 +125,6 @@ hr{
   left: 300px;
   padding-bottom: 50px;
   border-bottom: 0;
-
 }
 
 .top-container{
@@ -172,8 +158,6 @@ position: relative;
 right: 20px;
 color: #EAF6F6;
 text-decoration: none;
-
-
 }
 
 .tome-2{
@@ -188,10 +172,6 @@ left: 20px;
 text-decoration: none;
 }
 
-.cright{
-
-
-}
 
 .copyright-img{
   height: 1rem;
